@@ -1,7 +1,7 @@
 # elektronika_mk_english_keys
 English keys for the Elektronika MK 52 and MK61.
-The keys come on a sprue, cut them off but keep the flange son each long side. these hold the keys into the keyframe.
-i fill the legend with white air dry clay, but other methods might work.
+The keys come on a sprue, cut them off but keep the flanges on each long side. these hold the keys into the keyframe.
+I fill the legend with white air dry clay, but other methods might work.
 
 MK52:
 <img src="https://github.com/blackjetrock/elektronika_mk_english_keys/assets/31587992/f56ad182-d56f-4c4a-9690-fa24dd598256" width="50%">
