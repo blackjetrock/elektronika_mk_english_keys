@@ -3,6 +3,7 @@
 English keys for the Elektronika MK 52 and MK61.
 The keys come on a sprue, cut them off but keep the flanges on each long side. these hold the keys into the keyframe.
 I fill the legend with white air dry clay, but other methods might work.
+The files to send to a printer or printer company are the .stl files. I used JLCPCB and 'black resin' for the keys in the photos.
 
 MK52:
 
